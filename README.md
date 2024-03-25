@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Hyperbolic Secant Representation of the Logistic Function: Application to Probabilistic Multiple Instance Learning for CT Intracranial Hemorrhage Detection [<a href="https://doi.org/10.1016/j.artint.2024.104115">pdf</a>]<br>
+    Hyperbolic Secant Representation of the Logistic Function: Application to Probabilistic Multiple Instance Learning for CT Intracranial Hemorrhage Detection [<a href="https://doi.org/10.1016/j.artint.2024.104115">AIJ</a>] [<a href="https://arxiv.org/abs/2403.14829">arXiv</a>]<br>
 </h1>
 
 ### TL;DR
